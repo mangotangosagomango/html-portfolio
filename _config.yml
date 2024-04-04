@@ -1,0 +1,12 @@
+name: Joachim Tan
+# permalink: /:title/
+# baseurl: https://joachimtan.com
+# baseurl: ""
+permalink: /blog/:title
+
+# seo tag
+plugins:
+  - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-TEEDE1GB8S
